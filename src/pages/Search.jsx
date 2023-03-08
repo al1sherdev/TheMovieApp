@@ -39,7 +39,7 @@ const Search = () => {
               />
             </form>
           </Row>
-          <Row className='gy-5'>
+          <Row className='gy-5 padding'>
             {
               results.length >= 0 ? (
                 results.map(item => {

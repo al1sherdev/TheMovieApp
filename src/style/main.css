@@ -114,3 +114,6 @@ a {
 .search {
     min-height: 61vh;
 }
+.padding {
+    padding: 20px 0;
+}
