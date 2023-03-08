@@ -1,0 +1,27 @@
+.navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: var(--dark-blue);
+    z-index: 10;
+}
+.navbar .logo {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #3cbdc9f8;
+}
+
+.nav_links {
+    position: absolute;
+    left: 160px;
+    padding: 0 10px;
+}
+.nav_link {
+    padding: 0 20px;
+}
+.nav_link a {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+}
